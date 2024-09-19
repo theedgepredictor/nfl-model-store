@@ -1,0 +1,31 @@
+{
+    "data_columns": [
+        "away_team_win",
+        "spread_line",
+        "total_line",
+        "away_ewma_rushing_offense",
+        "away_ewma_rushing_defense",
+        "away_ewma_passing_offense",
+        "away_ewma_passing_defense",
+        "away_ewma_score_offense",
+        "away_ewma_score_defense",
+        "home_ewma_rushing_offense",
+        "home_ewma_rushing_defense",
+        "home_ewma_passing_offense",
+        "home_ewma_passing_defense",
+        "home_ewma_score_offense",
+        "home_ewma_score_defense",
+        "away_elo_pre",
+        "home_elo_pre"
+    ],
+    "experiment_name": "win_percentage",
+    "run_name": "baseline",
+    "hyperparameters": {
+        "n_estimators": 500,
+        "random_state": 0
+    },
+    "experiment_id": "489090576060070207",
+    "run_id": "71fe1505ef10409da180e087a4576fc6",
+    "previous_registered_run_id": null,
+    "updated_at": "2024-09-19 08:53:51"
+}
